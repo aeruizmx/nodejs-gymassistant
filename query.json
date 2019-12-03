@@ -31,3 +31,14 @@
       "message": "Webhook call failed. Error: Request timeout."
     }
   }
+
+  "outputContexts": [
+    {
+      "name": "projects/mygymassistant-gcqkjk/agent/sessions/98ea5cb4-8a4c-323b-5cc0-531b2ea08439/contexts/setexercise",
+      "lifespanCount": 1,
+      "parameters": {
+        "exerciseType.original": "pullups",
+        "exerciseType": "pullups"
+      }
+    }
+  ],
