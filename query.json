@@ -1,0 +1,33 @@
+{
+    "responseId": "e0118459-7c54-4254-b7e0-6cc09b630d75-9cc28bb4",
+    "queryResult": {
+      "queryText": "I'm done with pushups",
+      "parameters": {
+        "exerciseType": "pushups"
+      },
+      "allRequiredParamsPresent": true,
+      "fulfillmentText": "pushups",
+      "fulfillmentMessages": [
+        {
+          "text": {
+            "text": [
+              "pushups"
+            ]
+          }
+        }
+      ],
+      "intent": {
+        "name": "projects/mygymassistant-gcqkjk/agent/intents/d90deaf3-0ed6-4e8b-8857-7cabe8b0254c",
+        "displayName": "NextExcercise"
+      },
+      "intentDetectionConfidence": 1,
+      "diagnosticInfo": {
+        "webhook_latency_ms": 4990
+      },
+      "languageCode": "en"
+    },
+    "webhookStatus": {
+      "code": 4,
+      "message": "Webhook call failed. Error: Request timeout."
+    }
+  }
